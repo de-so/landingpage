@@ -550,7 +550,7 @@ p.notes span{
 }
 
 .screen-front {
-/*   background: #68077A; */
+  background: #68077A;
   background: URL("./images/desktop.jpg");
   background-size: 194px 114px;
   background-repeat: no-repeat;
@@ -561,7 +561,7 @@ p.notes span{
 }
 
 .screen-back {
-/*   background-color: #68077A; */
+  background-color: #68077A;
   transform: translateZ(3px);
   background-image: URL("./images/myphoto.png");
   background-size: 60px 60px;
