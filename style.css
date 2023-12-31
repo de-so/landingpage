@@ -321,6 +321,7 @@ img{
 }
 
 .message {
+  color: white;
   margin-left: 15px;
   height: 40px;
   line-height: 40px;
