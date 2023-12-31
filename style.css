@@ -474,7 +474,7 @@ p.notes span{
 
 .base-bottom {
   transform: translateZ(0px);
-  background-image: url(/images/keyboard.png);
+  background-image: url(images/keyboard.png);
   background-size: 190px auto;
   background-repeat: no-repeat;
   background-position: center 0px;
@@ -551,7 +551,7 @@ p.notes span{
 
 .screen-front {
   background: #68077A;
-  background: url(/images/desktop.jpg);
+  background: url(images/desktop.jpg);
   background-size: 194px 114px;
   background-repeat: no-repeat;
   background-position: center;
@@ -563,7 +563,7 @@ p.notes span{
 .screen-back {
   background-color: #68077A;
   transform: translateZ(3px);
-  background-image: url(/images/myphoto.png);
+  background-image: url(images/myphoto.png);
   background-size: 60px 60px;
   background-repeat: no-repeat;
   background-position: center;
