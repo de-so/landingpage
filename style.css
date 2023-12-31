@@ -551,7 +551,7 @@ p.notes span{
 
 .screen-front {
   background: #68077A;
-  background: URL(./images/desktop.jpg);
+  background: URL("./images/desktop.jpg");
   background-size: 194px 114px;
   background-repeat: no-repeat;
   background-position: center;
